@@ -4,41 +4,69 @@ Jeevitha just started work as a programming trainer for UIT’s Placement Cell. 
 Input consists of 7 integers less than or equal to 24 on separate lines. Print Jeevitha’s weekly salary as output.
 
 Test Cases:
+
 Case 1:
+
 Input
+
 0
+
 8
+
 8
+
 8
+
 10
+
 6
+
 0
 
 Output
+
 4030
 
 Case 2:
+
 Input
+
 4
+
 5
+
 0
+
 8
+
 0
+
 6
+
 0
 
 Output
+
 2500
 
 Case 3:
+
 Input
+
 5
+
 3
+
 6
+
 1
+
 1
+
 2
+
 3
 
 Output
+
 2425
